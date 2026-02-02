@@ -1,0 +1,45 @@
+import java.util.Scanner;
+class main
+{
+    public static void main(String args[])
+    {
+        Scanner sc=new Scanner(System.in);
+        int totalmarks=0;
+        System.out.println("Enter Number of Subjects:");
+        int a=sc.nextInt();
+        for(int i=1;i<=a;i++)
+        {
+            System.out.println("Enter mark for Subject "+i+":");
+            int marks=sc.nextInt();
+            totalmarks+=marks;
+        }
+        System.out.println("Result:");
+        System.out.println("Total marks Obtained : "+totalmarks+"/"+a*100);
+        double b=(double)totalmarks/a;
+        System.out.println("Average Percentage : "+b+" %");
+        if(b>=90)
+        {
+            System.out.println("Grade Obtained : O");
+        }
+        else if(b>=80 && b<90)
+        {
+            System.out.println("Grade Obtained : A+");
+        }
+        else if(b>=70 && b<80)
+        {
+            System.out.println("Grade Obtained : A");
+        }
+        else if(b>=60 && b<70)
+        {
+            System.out.println("Grade Obtained : B+");
+        }
+        else if(b>=50 && b<60)
+        {
+            System.out.println("Grade Obtained : B");
+        }
+        else 
+        {
+            System.out.println("No Grade Obtained");
+        }
+    }
+}
