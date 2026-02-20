@@ -1,0 +1,35 @@
+import java.util.Random;
+import java.util.Scanner;
+class main
+{
+    public static void main(String args[])
+    {
+        Scanner s=new Scanner(System.in);
+        Random sc=new Random();
+        int a=sc.nextInt(100);
+        boolean k=false;
+        for(int i=1;i<=10;i++)
+        {
+            System.out.print("Enter Number between(1-100) : ");
+            int b=s.nextInt();
+            if(b<a)
+            {
+                System.out.println("Try a bigger number.");
+            }
+            else if(b>a)
+            {
+                System.out.println("Try a smaller number.");
+            }
+            else
+            {
+                 System.out.println("Congratulations You Found the number !!");
+                 k=true;
+                 break;
+            }
+        }
+        if(!k)
+        {
+            System.out.println("Game over , Random Number is : "+a);
+        }
+    }
+}
