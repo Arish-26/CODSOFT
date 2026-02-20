@@ -22,8 +22,11 @@ Below 50% → No Grade.
 Sample Output :
 
 Enter Number of Subjects: 5
+
 Total Marks Obtained: 433/500
+
 Average Percentage: 86.6%
+
 Grade Obtained: A+.
 
 How to Run :
