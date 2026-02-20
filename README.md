@@ -45,9 +45,9 @@ Generates random number between 1–100, Gives hints (Higher / Lower), Maximum 1
 
 Game Rules :
 
-You have 10 attempts to guess the correct number.
+i)You have 10 attempts to guess the correct number.
 
-The program will guide you whether to guess higher or lower.
+ii)The program will guide you whether to guess higher or lower.
 
 Sample Output :
 Enter Number between (1-100): 50
