@@ -1,4 +1,4 @@
-Student Grade Calculator (Java)
+3) Student Grade Calculator (Java)
 
 A console-based Java application developed for the CodSoft Java Internship.
 This program calculates Total Marks, Average Percentage, and Grade based on marks entered for multiple subjects.
