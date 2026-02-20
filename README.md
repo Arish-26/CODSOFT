@@ -5,9 +5,9 @@ This program calculates Total Marks, Average Percentage, and Grade based on mark
 
 Features
 
-Takes number of subjects as input
-Accepts marks for each subject
-Calculates total and average percentage
+Takes number of subjects as input,
+Accepts marks for each subject,
+Calculates total and average percentage,
 Displays grade based on performance.
 
 Grade Criteria
