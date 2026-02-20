@@ -28,7 +28,7 @@ Task: ATM Interface
 
 Domain: Java Programming
 
-Author 
+Author :
 Arish Murugan
 
 
@@ -63,7 +63,7 @@ Task: Number Guessing Game
 
 Domain: Java Programming
 
-Author 
+Author :
 Arish Murugan
 
 
@@ -103,5 +103,5 @@ Task: Student Grade Calculator.
 
 Domain: Java Programming.
 
-Author
+Author :
 Arish Murugan.
