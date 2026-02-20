@@ -5,15 +5,7 @@ This program simulates basic ATM operations like checking balance, depositing mo
 
 Features :
 
-Check account balance
-
-Deposit money
-
-Withdraw money
-
-Input validation for invalid amounts
-
-Simple menu-driven interface
+Check account balance,Deposit money,Withdraw money,Input validation for invalid amounts,Simple menu-driven interface
 
 Initial Balance :
 
@@ -25,9 +17,10 @@ Sample Output :
 2. Deposit
 3. Withdraw
 4. Exit
-Enter choice: 1
 
+Enter choice: 1
 Current Balance: 1000.00
+
 How to Run :
 javac ATM.java
 java ATM
@@ -50,13 +43,7 @@ This program generates a random number between 1 and 100, and the user must gues
 
 Features :
 
-Generates random number between 1–100
-
-Gives hints (Higher / Lower)
-
-Maximum 10 attempts
-
-Displays winning or game over message
+Generates random number between 1–100,Gives hints (Higher / Lower),Maximum 10 attempts,Displays winning or game over message
 
 Game Rules :
 
