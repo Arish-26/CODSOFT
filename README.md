@@ -24,6 +24,7 @@ Current Balance: 1000.00
 How to Run :
 javac ATM.java
 java ATM
+
 Internship Details :
 
 Internship: CodSoft
