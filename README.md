@@ -21,10 +21,6 @@ Sample Output :
 Enter choice: 1
 Current Balance: 1000.00
 
-How to Run :
-javac ATM.java
-java ATM
-
 Internship Details :
 
 Internship: CodSoft
@@ -61,10 +57,6 @@ Enter Number between (1-100): 75
 Try a smaller number.
 
 Congratulations! You found the number!!
-How to Run :
-javac Main.java
-java Main
-Internship Details :
 
 Internship: CodSoft
 Task: Number Guessing Game
@@ -104,10 +96,6 @@ Total Marks Obtained: 433/500
 Average Percentage: 86.6%
 
 Grade Obtained: A+.
-
-How to Run :
-javac Main.java
-java Main
 
 Internship Details
 Internship: CodSoft
