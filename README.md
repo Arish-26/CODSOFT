@@ -5,7 +5,7 @@ This program simulates basic ATM operations like checking balance, depositing mo
 
 Features :
 
-Check account balance,Deposit money,Withdraw money,Input validation for invalid amounts,Simple menu-driven interface
+Check account balance, Deposit money, Withdraw money, Input validation for invalid amounts, Simple menu-driven interface
 
 Initial Balance :
 
@@ -36,6 +36,8 @@ Author
 Arish Murugan
 
 
+
+
 2.Number Guessing Game (Java)
 
 A console-based Java application developed for the CodSoft Java Internship.
@@ -43,7 +45,7 @@ This program generates a random number between 1 and 100, and the user must gues
 
 Features :
 
-Generates random number between 1–100,Gives hints (Higher / Lower),Maximum 10 attempts,Displays winning or game over message
+Generates random number between 1–100, Gives hints (Higher / Lower), Maximum 10 attempts, Displays winning or game over message
 
 Game Rules :
 
@@ -73,6 +75,8 @@ Author
 Arish Murugan
 
 
+
+
 3.Student Grade Calculator (Java)
 
 A console-based Java application developed for the CodSoft Java Internship.
@@ -80,10 +84,7 @@ This program calculates Total Marks, Average Percentage, and Grade based on mark
 
 Features :
 
-Takes number of subjects as input,
-Accepts marks for each subject,
-Calculates total and average percentage,
-Displays grade based on performance.
+Takes number of subjects as input, Accepts marks for each subject, Calculates total and average percentage, Displays grade based on performance.
 
 Grade Criteria :
 
